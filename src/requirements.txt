@@ -1,0 +1,6 @@
+matplotlib==2.1.0
+pycallgraph==1.0.1
+memory_profiler==0.48.0
+numpy==1.9.2
+pandas==0.19.2
+scikit_learn==0.19.1
